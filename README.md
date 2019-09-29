@@ -1,4 +1,4 @@
 # hello-world
 1st repository
 
-hi, im from Taiwan, a student of NTU.
+hi, this is JENG-EN, a Taiwanese student:)
